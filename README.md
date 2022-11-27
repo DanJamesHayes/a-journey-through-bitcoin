@@ -1,2 +1,3 @@
-# a-journey-through-bitcoin
+# A Journey Through Bitcoin
+
 A blog to document learning bitcoin
