@@ -1,0 +1,9 @@
+
+
+.site-title::before {
+	content: url("/a-journey-through-bitcoin/assets/images/logo-bitcoin-4096.png");
+	display: inline-block;
+	position: relative;
+	width: 37px;
+	top: 5px;
+}
