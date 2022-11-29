@@ -1,3 +1,3 @@
 # A Journey Through Bitcoin
 
-danjameshayes.github.io/a-journey-through-bitcoin
+https://danjameshayes.github.io/a-journey-through-bitcoin
