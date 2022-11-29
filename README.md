@@ -1,3 +1,3 @@
 # A Journey Through Bitcoin
 
-A blog to document learning bitcoin
+danjameshayes.github.io/a-journey-through-bitcoin
