@@ -2,3 +2,7 @@ title: A Journey Through Bitcoin
 theme: minima
 author: Dan Hayes
 description: A blog to document my learning journey of bitcoin
+collections:
+  tutorials:
+    order:
+      - raspberry-pi.md
