@@ -20,7 +20,7 @@ router.get("/test", (req, res) => res.json({ msg: "backend works" }));
 router.get("/getblockcount", (req, res) => {
     var dataString = `{"jsonrpc":"1.0","id":"curltext","method":"getblockcount","params":[]}`;
     var options = {
-      url: `http://${USER}:${PASS}@192.168.1.137:8332/`,
+      url: `http://${USER}:${PASS}@${NODEIP}:8332/`,
       method: "POST",
       headers: headers,
       body: dataString
