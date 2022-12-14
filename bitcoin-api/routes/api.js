@@ -202,7 +202,7 @@ router.get("/getblockhash/:index", (req, res) => {
     req.params.index
   }]}`;
   var options = {
-    url: `http://${USER}:${PASS}@127.0.0.1:8332/`,
+    url: `http://${USER}:${PASS}@${NODEIP}:8332/`,
     method: "POST",
     headers: headers,
     body: dataString
