@@ -1,0 +1,12 @@
+{
+  "name": "ticboin",
+  "version": "1.0.0",
+  "description": "A bitcoin block explorer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dan Hayes",
+  "license": "ISC"
+}
